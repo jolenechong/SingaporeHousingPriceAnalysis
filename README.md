@@ -30,7 +30,7 @@ Through this project, I set out to answer questions with the help of multiple da
 - Python Libraries: pandas, requests, BeautifulSoup
 - Checkout documentation pdf for source of datasets
 
-*To see more about how I did webscraping click [here](https://github.com/jolenechong/SingaporeHousingPriceAnalysis/blob/master/global-housing-price-index-webscraping)
+*To see more about how I did webscraping click [here](https://github.com/jolenechong/SingaporeHousingPriceAnalysis/tree/main/global%20housing%20price%20index%20webscraping)
 
 ## Contact
 Jolene - [jolenechong7@gmail.com](mailto:jolenechong7@gmail.com) <br>
