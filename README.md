@@ -1,7 +1,4 @@
 # Singapore Housing Price Analysis
-
-Webscraping with Python, BeautifulSoup and Pandas to get dataset of Housing Price Index from 2009 to 2021.
-<br>
 ![Alt Text](interaction.gif)<br>
 I wanted to see how affordable housing is across countries, but I couldn't find a properly documented and easily downloaded dataset hence I created one with the help of web-scraping with Python and Pandas. 
 <br><br>
