@@ -1,15 +1,26 @@
 # Singapore Housing Price Analysis
 ![Alt Text](interaction.gif)<br>
-I wanted to see how affordable housing is across countries, but I couldn't find a properly documented and easily downloaded dataset hence I created one with the help of web-scraping with Python and Pandas. 
+I was tasked to create a visualisation that helps our target users find out if Singapore is a good place to live/work in based on different factors.<br>
+
+Through this project, I set out to answer questions with the help of multiple datasets available on the internet and showcased my skills in web-scraping with Python, data cleaning, manipulation, analysis and visualisation.
 <br><br>
 Date: February 2021 <br>
 Video Demo: https://vimeo.com/user122233488/review/678118497/1c3104daa4<br>
 Full Documentation: https://github.com/jolenechong/SingaporeHousingPriceAnalysis/blob/master/Documentation.pdf <br>
 
 ## Scope
-We were tasked to create a visualisation that helps our target users find out if Singapore is a good place to live/work in based on different factors.<br>
+Target Users: White-collar working adults who work 9am-5pm with at least 2 teenagers.<br>
+Interviews with stakeholders were done and through these interviews, my team and I were able to sift out what the important factors were. We found that the interview question that helped us the most was "If you could create a country, what kind of country would you want it to be" it created an open space for our interviewees to speak which allowed us to capture points we did not think of.<br><br>
+These were some of the question my analysis set out to answer:
+- How does location of Housing impact the prices in Singapore?
+- What are the key influences of price of Housing in Singapore?
+- How does distance from MRT affect the price of Housing in Singapore?
+- Will Housing Prices continue to increase in future?
+- How does the current trends of housing prices look like?
+- What are key influences of Housing prices in Singapore?
+- How does Singapore's Housing market compare to countries globally? Taking into account Avergae Price to Income ratio and Affordability Index.
 
-Through this project, I set out to answer questions with the help of multiple datasets available on the internet and showcased my skills in web-scraping with Python, data cleaning, manipulation, analysis and visualisation.<br>
+
 
 ## Overview of Reports
 <img src='ResalePriceByLocation&Lease.png'/><br><br>
