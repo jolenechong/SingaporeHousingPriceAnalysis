@@ -33,7 +33,12 @@ These were some of the question my analysis set out to answer:
 
 <img src='HousingMarketsGlobally.png'/><br><br>
 <strong>Housing markets globally.</strong> For my third report, I’ve decided to compare housing markets globally.  I also used KPI visuals to show the exact ranking of Singapore among the 502 cities which shows that Singapore is not very affordable overall. However, different countries have different standards of living, environment and many other different factors. Hence, I decided to let users choose the countries they want to compare. Using a slicer for the cities included in this dataset, target users are able to quickly easily compare cities they want in terms of Price to Income ratio which is also formatted to show less affordable markets to be darker. For example, as seen, Hong Kong, Beijing, Seoul, Moscow and Paris have less affordable housing than Singapore while Tokyo, Ankara, Washington and Chennai have more affordable housing. With this, target users will get a better idea of how Singapore’s housing market compares to cities around the world. From what we see here, Singapore’s housing market is satisfactory in terms of affordability compared to other First World countries’ capitals like the capitals of China, Russia and France.
-<br><br><br>
+<br><br>
+
+## Feedback from Industry Experts | Target Users
+A presentation was done showcasing the reports I've completed to cover the results of the analysis and this was the feedback I recieved.<br>
+"Very good presentation :) I like your logical flow of thoughts and good use of dataset"<br>
+"Good use of different visualisations like decomposition tree, linear regression and forecasting"
 
 ## Tech Stack
 - PowerBI
